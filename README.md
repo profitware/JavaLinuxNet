@@ -1,8 +1,15 @@
-Java Linux Network integration
+Clojure Linux Network integration
 ========================
+
+[![Clojars](https://img.shields.io/clojars/v/clj-linux-net.svg)](https://clojars.org/clj-linux-net)
+[![Dependencies Status](https://versions.deps.co/profitware/clj-linux-net/status.svg)](https://versions.deps.co/profitware/clj-linux-net)
+
 
 This is a set extensions on Java Classes to implement and use
 native Linux network features.
+
+For Java Linux Network integration library please consider the
+upstream library: https://github.com/lucwillems/JavaLinuxNet
 
 supported features :
 * TProxy based Sockets

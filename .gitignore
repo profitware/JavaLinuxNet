@@ -3,3 +3,16 @@
 *.class
 .idea/*
 src/native/*.h
+src/native/bpf_compile
+src/native/testjhash
+
+target
+classes
+checkouts
+pom.xml
+pom.xml.asc
+*.jar
+.lein-*
+.nrepl-port
+.hgignore
+.hg/
